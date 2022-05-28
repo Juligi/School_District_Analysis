@@ -1,10 +1,12 @@
 Objective: to learn Python & achieve Conda and Jupyter knowhow
-# School_District_Analysis
-
+# A School District Analysis
 
 ## Overview & Purpose the school district analysis
+For this mock project, I, the data analyst I'm paired up with Maria, the chief data scientist for City School District.  We are tasked with preparing all standardized test data for analysis, reporting and presentation to provide insights about performance trends and patterns to the leadership within the school distict, to allow for better decision making regarding the school budgets and priorities.  In this module, the task is to help Maria analyze data on student funding and students' standardized test scores.
 
+This analysis of school data required learning how to use **_Anaconda_**, a free, open-source distribution software for over 1,500 packages suitable for Windows and macOS. and it sub package: **_Jupyter Notebook_**.  With Jupyter Notebook, data analysts can "import data from a variety of formats, clean data, merge similar datasets, filter data based on conditionals, slice data on specific ranges, sort data based on values, and group data into similar categories. It can also be used to visualize data, write SQL queries, perform statistical analysis, and build and train machine learning models" according to this module instruction.
 
+A School District Analysis was completed & submitted, however, post submission, the school board notified the data team that the [students_complete.csv file] (https://github.com/Juligi/School_District_Analysis/blob/main/resources/schools_complete.csv) showed evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders, which these appeared to have been altered. And while, the school board did not know the full extent of the academic dishonesty, they want to uphold state-testing standards.  As result, all math and reading scores for Thomas High School must be replaced with NaNs while keeping the rest of the data intact, and  the school district analysis must be repeated to compare whether the changes affected the overall analysis.  This ReadMe analyzes the latter.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
