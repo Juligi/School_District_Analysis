@@ -12,9 +12,9 @@ A School District Analysis was completed & submitted, however, post submission, 
 
 ### District summary
 The District Summary was essentially not affected, and any effect statiscally is deemed negligible.
-*  Prior average math scores sat at 79.0%, and post math scores for Thomas High School were replaced with "**_NaNs**_" the new score was reduced to 78.9%, displaying a minimal impact or delta.
-*  No affect at all to average reading score
-*  And, similarly to average math scores, average reading scores had a .1 decimal impact.  Prior scores before "**_NaNs_** were introduced sat at 85.8% and with replacement scaled down to 85.7%, an insignificant downward slide. 
+*  Prior average math scores sat at 79.0%, and post math scores for Thomas High School were replaced with "**NaNs**" the new score was reduced to 78.9%, displaying a minimal impact or delta.
+*  No effect seen to average reading scores.  These remained unchanged at 81.9%.
+  *  And, while no impact was seen to the average reading scores, the percent of students passing reading had a .1 decimal impact.  Prior scores before "**NaNs**" were introduced sat at 85.8% and with replacement scaled down to 85.7%, an insignificant downward slide for percent passing reading. 
 
 How is the school summary affected?
 ### Replacing the ninth graders’ math and reading scores with Thomas High School’s & Affect performance relative to the other schools
