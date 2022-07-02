@@ -8,7 +8,7 @@ This analysis of school data required learning how to use **_Anaconda_**, a free
 
 A School District Analysis was completed & submitted, however, post submission, the school board notified the data team that the [students_complete.csv file](https://github.com/Juligi/School_District_Analysis/blob/main/resources/schools_complete.csv) showed evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth-graders, which there appeared to have been altered. And while the school board did not know the full extent of the academic dishonesty, they want to uphold state-testing standards.  As result, all math and reading scores for Thomas High School must be replaced with NaNs while keeping the rest of the data intact, and the school district analysis must be repeated to compare whether the changes affected the overall analysis.  This ReadMe analyzes the latter.
 
-## Results: Affect of Nullifying 9th Graders Scores on School and District Summaries, Scores by Grade, Math and Reading Scores, Scores by School Spending, School Size, and Type
+## Results:
 
 ### Affect on School District Summary
 The District Summary was essentially not affected, and any effect statiscally is deemed negligible.
