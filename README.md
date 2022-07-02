@@ -18,9 +18,8 @@ The District Summary was essentially not affected, and any effect statiscally is
   
 The pictorials below is exemplary of the above summary findings.
 
-![image](https://user-images.githubusercontent.com/50222179/170856464-76b60e2a-8bb2-4b87-9e0d-641262168002.png)
-vs
-![image](https://user-images.githubusercontent.com/50222179/170856485-45e9b06d-248f-4f81-94e0-b6464ba72a37.png)
+![image]([https://user-images.githubusercontent.com/50222179/170856464-76b60e2a-8bb2-4b87-9e0d-641262168002.png]
+
 
 ### Affect on School Summary & Outcomes of Replacing the Ninth-grade Scores
 
