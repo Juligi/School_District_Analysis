@@ -14,17 +14,17 @@ A School District Analysis was completed & submitted, however, post submission, 
 The District Summary was essentially not affected, and any effect statiscally is deemed negligible.
 *  Prior average math scores sat at 79.0%, and post math scores for Thomas High School were replaced with "**NaNs**" the new score was reduced to 78.9%, displaying a minimal impact or delta.
 *  No effect seen to average reading scores.  These remained unchanged at 81.9%.
-  * And, while no impact was seen to the average reading scores, the percent of students passing reading had a .1 decimal impact.  Prior scores before "**NaNs**" were introduced sat at 85.8% and with replacement scaled down to 85.7%, an insignificant downward slide for percent passing reading. 
+  * And, while no impact was seen to the average reading scores, the percent of students passing reading had a .1 decimal impact.  Prior scores before "**NaNs**" were introduced sat at 85.8% and with replacement scaled down to 85.7%, an insignificant downward slide for percent passing readingare
   
-The pictorials below is exemplary of the above summary findings.
+The pictorials below is exemplary of the aonve summary finthe dings. The image of the right isbeforeathe me and district summary prior to nullification of the grades discussed above.  
 
 ![image](https://github.com/Juligi/School_District_Analysis/blob/main/resources/image.png)
 
-
 ### Affect on School Summary & Outcomes of Replacing the Ninth-grade Scores
 
-Replacing the ninth graders’ math and reading scores with Thomas High School’s did not affect performance relative to the other schools, nor did it impact in general math and reading scores by grade, scores by school spending, scores by school size or scores by school type.
+Replacing the ninth graders’ math and reading scores with Thomas High School’s did not affect performance relative to the er schools, nor did it impact in general math and reading scores by grade, scores by schoo,l spending, scores by school size or scores by school type. For reference review the original data frame on the right versus left data frame taking into account the nullification of grades.
+![image](https://github.com/Juligi/School_District_Analysis/blob/main/resources/School%20Summary_Original%20vs%20Challenge.png)
 
 
-
-## Conclusion & Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Conclusion & Summary: 
+No statistically signficant delta occurred to the overall school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaN nor did it impact general school summary nor scores by any category reviewed.  The School Board made a justified decision to uphold state-testing standards.  While, all math and reading scores for Thomas High School were replaced with NaNs while keeping the rest of the data intact, this school district analysis confirmed these changes did not affect the overall analysis.
